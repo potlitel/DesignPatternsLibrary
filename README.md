@@ -3,35 +3,35 @@
 </div>  
 <p>&nbsp;</p>
 
->Welcome to **OpenStove — A Curated Collection of Community-Crafted Recipes**. OpenStove is a digital gathering space where culinary enthusiasts come together to discover, share, and contribute recipes. No ads, no fees —  just a love for food and community.
+>Welcome to **Astro Design Patterns Library — A Curated Reference of Software Design Solutions.** Este repositorio es un archivo digital donde desarrolladores y arquitectos descubren, aprenden y aplican patrones probados para construir sistemas robustos y escalables. Sin distracciones, solo conocimiento esencial.
 
-## What is OpenStove?
+## What is Astro Design Patterns Library?
 
-OpenStove is built on the belief that the best cooking experiences come from shared knowledge. We provide a platform free from distracting ads where you have direct access to a diverse collection of dishes curated and cherished by food lovers from all over the world.
+**Astro Design Patterns Library** está construido sobre la creencia de que la mejor ingeniería de software proviene de la reutilización de soluciones probadas. Proporcionamos una plataforma basada en Astro libre de distracciones donde tienes acceso directo a una colección de patrones fundamentales (GoF), Arquitectura y Microservicios, curados para la excelencia.
 
 ### Features
-* A diverse and growing recipe database.
-* A user-friendly platform free from distracting ads.
-* Community-driven curation and contribution.
+* Una base de datos extensa de Patrones de Diseño.
+* Búsqueda local y navegación por etiquetas (tags) ultra rápida.
+* Contenido enriquecido con Steppers para pasos de implementación.
 
-## Tailored for Food Lovers
+## Tailored for Software Architects and Developers
 
-Discover new recipes from our ever-growing database, curated by food lovers worldwide. OpenStove is more than just a recipe site — it's a collective archive of culinary delights, where each contribution enriches our cooking experience.
+Descubre soluciones para problemas de diseño recurrentes en nuestra base de datos en crecimiento. Este repositorio es más que una simple lista de patrones: es un archivo colectivo de **planos de arquitectura** donde cada entrada enriquece tu proceso de toma de decisiones.
 
-## Contribute a Recipe
+## Contribute a Pattern
 
-We encourage everyone to share their recipes and tips! Here's how:
+¡Animamos a todos a compartir sus conocimientos y patrones favoritos! Aquí tienes cómo:
 
-1. Check out our [CONTRIBUTING.md](https://github.com/mearashadowfax/OpenStove/blob/main/CONTRIBUTING.md) for detailed guidelines.
-2. Follow the simple format to ensure consistency across our collection.
-3. Submit a pull request with your recipe for the community to enjoy!
+1. Revisa nuestro [CONTRIBUTING.md](https://github.com/mearashadowfax/OpenStove/blob/main/CONTRIBUTING.md) para pautas detalladas.
+2. Sigue el formato de **Frontmatter** y cuerpo conciso para asegurar la consistencia en nuestra colección.
+3. Envía un ***pull request*** con tu patrón para que la comunidad lo aproveche.
 
 ## License
 
-OpenStove is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Astro Design Patterns Library is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-- **Attribute** — Provide proper credit, link to the license, and note any changes.
-- **NonCommercial** — Material cannot be used for commercial purposes.
-- **ShareAlike** — If you remix, transform, or build upon the material, distribute your contributions under the same license as the original.
+- **Attribute** — Proporciona el crédito adecuado, enlaza a la licencia y anota cualquier cambio.
+- **NonCommercial** — El material no puede ser utilizado para fines comerciales.
+- **ShareAlike** — Si remezclas, transformas o construyes sobre el material, distribuye tus contribuciones bajo la misma licencia que el original.
 
 [View Full License](https://github.com/mearashadowfax/OpenStove/blob/main/LICENSE)
